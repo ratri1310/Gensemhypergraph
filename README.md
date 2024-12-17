@@ -24,4 +24,4 @@ pip install -r requirements.txt
 Usage:
 python main.py
 Results
-The script will output the total loss for each document and the predicted labels for unseen documents.
+
